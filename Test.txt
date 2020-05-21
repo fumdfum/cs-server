@@ -1,4 +1,8 @@
+<<<<<<< ours
 This is a test text file for github
 Noapte buna
 
 DA DA ADAD
+=======
+This is a test text file for github
+>>>>>>> theirs
